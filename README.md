@@ -20,7 +20,8 @@ Vrinda Store wants to create an annual sales report for 2022 so that Vrinda can 
 * Highest selling category?
 
 # Dashboard
-
+* See the dashboard from [Google Drive](https://1drv.ms/x/c/308364de6ed0bdec/EQIW6IvQvgBBricroSRkdDgBe0qurv2g1FxwTWc8a6-sjA?e=hinCLi&nav=MTVfe0Q2MkNDNEZGLUYwM0UtNDA5Qy04QzkzLTg3MjdCQTYzRkM2Q30).
+  
 # Insights  
 * Women customers are more likely to buy products compared to men (~65%).
 * The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
