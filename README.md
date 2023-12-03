@@ -3,4 +3,5 @@
 # Vrinda Store Data Analysis
 The Vrinda Store Data Analysis project aims to increase sales by leveraging insights extracted from the store's collected data.
 
-
+# Skills
+* MS Excel
