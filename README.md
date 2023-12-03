@@ -9,6 +9,18 @@ Vrinda Store wants to create an annual sales report for 2022 so that Vrinda can 
 # Dataset  
 * Download the dataset from [Google Drive](https://docs.google.com/spreadsheets/d/1lksoPNBWydgUSGGkOqFba6WNIQ0fDIXj/edit?usp=sharing&ouid=101791765069871797241&rtpof=true&sd=true).
 
+# Questions 
+* Compare the sales and orders using single chart.
+* Which month got the highest sales and orders?
+* Who purchased more - Men or Women?
+* What are different order status in 2022?
+* List top 10 states contributingto the sales?
+* Relation between age and gender based on number of orders.
+* Which Channel is contributing maximum to the sales?
+* Highest selling category?
+
+
+
 # Insights  
 * 
 
