@@ -4,7 +4,7 @@
 Vrinda Store wants to create an annual sales report for 2022 so that Vrinda can understand its customers and increase sales in 2023.
 
 # Skills
-* MS Excel
+* Ms Excel
 
 # Dataset  
 * Download the dataset from [Google Drive](https://docs.google.com/spreadsheets/d/1lksoPNBWydgUSGGkOqFba6WNIQ0fDIXj/edit?usp=sharing&ouid=101791765069871797241&rtpof=true&sd=true).
