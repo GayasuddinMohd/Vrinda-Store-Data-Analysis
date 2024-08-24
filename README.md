@@ -1,6 +1,6 @@
 ![Image Alt Text](https://vrindaclothing.in/cdn/shop/files/vrinda_Logo_main-01_7b50c80c-8f76-4463-b2aa-eb9643f9d378.png?height=628&pad_color=ffffff&v=1670213805&width=1200)
 
-# Vrinda Store Data Analysis
+# [Vrinda Store Data Analysis](https://onedrive.live.com/edit?id=308364DE6ED0BDEC!s8be81602bed04100ae272ba124647438&resid=308364DE6ED0BDEC!s8be81602bed04100ae272ba124647438&cid=308364de6ed0bdec&ithint=file%2Cxlsx&nav=MTVfe0Q2MkNDNEZGLUYwM0UtNDA5Qy04QzkzLTg3MjdCQTYzRkM2Q30&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy8zMDgzNjRkZTZlZDBiZGVjL0VRSVc2SXZRdmdCQnJpY3JvU1JrZERnQmUwcXVydjJnMUZ4d1RXYzhhNi1zakE_ZT1oaW5DTGkmbmF2PU1UVmZlMFEyTWtORE5FWkdMVVl3TTBVdE5EQTVReTA0UXprekxUZzNNamRDUVRZelJrTTJRMzA&migratedtospo=true&wdo=2)
 Vrinda Store wants to create an annual sales report for 2022 so that Vrinda can understand its customers and increase sales in 2023.
 
 # Skills
